@@ -1,0 +1,273 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/src/cocos/cocosbuilder/CCBReaderLoad.luac
+SHA1-Digest: 8BITlSvOJzJNmm0t4fux5JQbrGg=
+
+Name: assets/src/cocos/cocosdenshion/AudioEngine.luac
+SHA1-Digest: Q+q1GzqOLpuPg7Z7eLZymQYYZEw=
+
+Name: assets/src/app/models/BugAnt.luac
+SHA1-Digest: L2v6xGSpU+WrTEpGq0AimoGjtXs=
+
+Name: assets/src/cocos/extension/ExtensionConstants.luac
+SHA1-Digest: yfmSn8tziODts96gBQh/ktkGHkw=
+
+Name: assets/src/cocos/cocostudio/CocoStudio.luac
+SHA1-Digest: 05y2GDB+IdcvcJve1fxytCkzsQM=
+
+Name: assets/res/MainSceneBg.jpg
+SHA1-Digest: gclsVHaxy5pOJPkkJ3CeD38Htj0=
+
+Name: assets/src/cocos/ui/DeprecatedUIEnum.luac
+SHA1-Digest: SItWdd7PwgbyTPeqRBfJ5zL4h58=
+
+Name: assets/src/cocos/framework/device.luac
+SHA1-Digest: y2ZGhdsSzq/S1a0r/Sjo4t4ENwA=
+
+Name: assets/src/cocos/network/DeprecatedNetworkFunc.luac
+SHA1-Digest: ix9FA1xivkU0euMnVs/vZugJBoI=
+
+Name: assets/src/cocos/cocos2d/DeprecatedOpenglEnum.luac
+SHA1-Digest: ZfMkAJ2HqRU5eKm/+R1VvXpTNRg=
+
+Name: assets/src/cocos/extension/DeprecatedExtensionClass.luac
+SHA1-Digest: FfWbqufS88q4ZkpoV4BdfLfg74k=
+
+Name: assets/src/cocos/framework/extends/MenuEx.luac
+SHA1-Digest: 92ec5Ye/dgF7dxR4VZnVHYA3710=
+
+Name: assets/src/cocos/framework/extends/UIListView.luac
+SHA1-Digest: jWz6ObNWT2NbX+QNttkQrETfYQU=
+
+Name: assets/src/app/models/BugSpider.luac
+SHA1-Digest: Eg7J4XCQCeF3N3nSIe9OJUddQ4U=
+
+Name: assets/src/packages/mvc/ViewBase.luac
+SHA1-Digest: oQtX+PYZ1j/H4gjukMWXUSz87Iw=
+
+Name: assets/src/cocos/extension/DeprecatedExtensionFunc.luac
+SHA1-Digest: b6CBd+WyVX0y0k+qWpmIQcHxzNU=
+
+Name: assets/src/cocos/framework/extends/UIWidget.luac
+SHA1-Digest: IMoOg1Y1emys2Xtqfx38m/fuzDg=
+
+Name: assets/src/cocos/cocos2d/DeprecatedCocos2dEnum.luac
+SHA1-Digest: JLMqfsY+aMIB38IbOSBebyIEyaE=
+
+Name: assets/src/cocos/init.luac
+SHA1-Digest: kjJoFSxmSQF1evMGh/ELGnSJcC0=
+
+Name: assets/src/app/views/GameView.luac
+SHA1-Digest: hJeZPFn3qAvoRdLPvlnckPw4Km0=
+
+Name: assets/src/cocos/cocos2d/Opengl.luac
+SHA1-Digest: qSxeE0NP4HX329lEnEVfeHKIaf0=
+
+Name: assets/src/app/views/PlayScene.luac
+SHA1-Digest: WhK82zo2gDNIyVlFPFsXY+lfXDI=
+
+Name: assets/src/cocos/framework/extends/UITextField.luac
+SHA1-Digest: hJhT/acEBlfbRYTrtEsmTEzRdCk=
+
+Name: assets/src/cocos/network/NetworkConstants.luac
+SHA1-Digest: gZPPCZiwqRGjY7tqcT3VwnZ3u60=
+
+Name: assets/src/cocos/framework/audio.luac
+SHA1-Digest: OA1yvksuG4u5ovWnGCRRTNkwRpI=
+
+Name: assets/src/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.luac
+SHA1-Digest: X2JEw3m/7qBg60lVjgo+JY61/D0=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: nFMzxotJRQ5x1a+HbINp/MxJsGA=
+
+Name: assets/src/cocos/framework/extends/NodeEx.luac
+SHA1-Digest: OD1C2sOsM2SGcnvhBEwjrEWPu9g=
+
+Name: assets/src/cocos/controller/ControllerConstants.luac
+SHA1-Digest: FRk7sTSbhHRSPTGLm64Fy84Ckns=
+
+Name: assets/src/cocos/extension/DeprecatedExtensionEnum.luac
+SHA1-Digest: JfDY5TbIydmodTqhBohjQlM7ZiM=
+
+Name: assets/src/cocos/framework/init.luac
+SHA1-Digest: viRf1uah2AUEbWuwSJmaOJP0jkM=
+
+Name: assets/src/cocos/spine/SpineConstants.luac
+SHA1-Digest: ZQAn05bBRB8w8imwzQgdBORB70E=
+
+Name: assets/src/cocos/framework/package_support.luac
+SHA1-Digest: 5RzDEr3GKSu7Z8z6XqwGSA5YVhk=
+
+Name: assets/res/Star.png
+SHA1-Digest: kUs191HGI8gPGWe4sm2FDzoqWb4=
+
+Name: assets/src/cocos/cocos2d/Cocos2d.luac
+SHA1-Digest: Ui0QuMgyB+Vl2ZhdY2YqzBxxf0M=
+
+Name: assets/src/cocos/cocos2d/functions.luac
+SHA1-Digest: sw2zx/m080S1g3wC4HWKnparvWw=
+
+Name: assets/src/cocos/ui/experimentalUIConstants.luac
+SHA1-Digest: 3gP2oOn8mRLz1pl07XwlV1Za0xM=
+
+Name: assets/src/cocos/network/DeprecatedNetworkClass.luac
+SHA1-Digest: TBlaSxbvtPfEa9zdGfQy5EEoyac=
+
+Name: assets/src/cocos/framework/extends/UISlider.luac
+SHA1-Digest: MrA2ZHayubyY2wen1PsvD0Ylx4I=
+
+Name: assets/res/BugSpider.png
+SHA1-Digest: jUOD0ecga2pV+yVeQ7Kbtwe7+To=
+
+Name: assets/src/packages/mvc/init.luac
+SHA1-Digest: G6CW1xo8aVJQ6m1LxijYO2R+Wzk=
+
+Name: assets/res/PlayButton.png
+SHA1-Digest: f47ptNmMysSrvYmIOjL6UbhjsqM=
+
+Name: assets/src/app/views/MainScene.luac
+SHA1-Digest: xfmC5WiyhL93b004z21AQOBYugo=
+
+Name: assets/src/cocos/cocosbuilder/DeprecatedCocosBuilderClass.luac
+SHA1-Digest: d9oqrQx76H7EHHa0TqCNYq0KPxk=
+
+Name: assets/src/cocos/cocos2d/luaoc.luac
+SHA1-Digest: XlVSi6XFb6E23Rm6nklECXukQss=
+
+Name: assets/src/config.luac
+SHA1-Digest: qeyGxyHKjUtd8jAX2ddVDJs/0Jk=
+
+Name: assets/src/app/MyApp.luac
+SHA1-Digest: jrgKYHAYcvx6jdleY41H0/nPgCw=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: u5cm0bYz9wbXlHD4n60oilbdZcU=
+
+Name: assets/src/cocos/framework/components/event.luac
+SHA1-Digest: IjkJqWdK025bjkeoykvyuZCMjlE=
+
+Name: assets/src/cocos/cocostudio/DeprecatedCocoStudioClass.luac
+SHA1-Digest: 1gusVA1EIJ1hh92sAFdtAdjP24k=
+
+Name: assets/src/cocos/framework/extends/UICheckBox.luac
+SHA1-Digest: 5ntQTIRCqWD81kBwjr/huZyg/50=
+
+Name: assets/src/cocos/framework/display.luac
+SHA1-Digest: dTjLafd9hNsDws3scKq2R9TV5ps=
+
+Name: lib/armeabi/libcocos2dlua.so
+SHA1-Digest: OqFYjJdtc8gwR89o/TzS6wuionk=
+
+Name: assets/res/ExitButton.png
+SHA1-Digest: R/6sxSyCKEhNL4xWJlmmikvNJaw=
+
+Name: resources.arsc
+SHA1-Digest: anqU3GbuM4ObNK0L86488uncjio=
+
+Name: assets/src/app/models/BugBase.luac
+SHA1-Digest: SONHPZOx9vmmCyjsM8xD3udaqPg=
+
+Name: assets/src/cocos/cocos2d/luaj.luac
+SHA1-Digest: FQZWkTYdEzFZ+7Pv5HCwiBBbRWU=
+
+Name: assets/config.json
+SHA1-Digest: oP2ieIz8a2rfv4pYn7dTEZetD+w=
+
+Name: assets/src/cocos/cocos2d/json.luac
+SHA1-Digest: YWuIZGKCxINjbhyHLFfpYxaD2r8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: bd+FcPpb932H9y5Eo4vXpc5H/x4=
+
+Name: assets/src/cocos/network/DeprecatedNetworkEnum.luac
+SHA1-Digest: OaR1eH+VkggPhyRTwRvTiWu7FJg=
+
+Name: assets/src/cocos/framework/transition.luac
+SHA1-Digest: QrULQSnUv+PlPwM7Y9peFEnpVLQ=
+
+Name: assets/src/cocos/framework/extends/SpriteEx.luac
+SHA1-Digest: 4DcV9ycZwylwdUKeZZzx4/tCnno=
+
+Name: assets/res/BugEnterHole.wav
+SHA1-Digest: P57kiHcVuVElMWO76TQXN1R56BU=
+
+Name: assets/res/PlaySceneBg.jpg
+SHA1-Digest: W8rkftVvbBvukp6InrAkuuvioHQ=
+
+Name: assets/src/cocos/ui/GuiConstants.luac
+SHA1-Digest: HMPsXfLc+KYwjJIDIbWL1P+stZw=
+
+Name: assets/src/cocos/cocos2d/OpenglConstants.luac
+SHA1-Digest: U1axLEwFAg2LTSlFnE8C3HJFwfI=
+
+Name: assets/src/cocos/cocosdenshion/DeprecatedCocosDenshionClass.luac
+SHA1-Digest: QBlqp+Pz0oL4tWOiD0H4ydtMqK4=
+
+Name: assets/src/cocos/cocostudio/DeprecatedCocoStudioFunc.luac
+SHA1-Digest: bV6zfs/UOu2OOQ24miku5OKf+Sw=
+
+Name: assets/src/cocos/cocos2d/DeprecatedCocos2dClass.luac
+SHA1-Digest: dfwlUguOwNhJKto8txQA+lprXFY=
+
+Name: assets/src/app/views/DeadBugSprite.luac
+SHA1-Digest: hBxkFqwLkC+oTPpx3uMoLmTDCWw=
+
+Name: assets/src/cocos/ui/DeprecatedUIFunc.luac
+SHA1-Digest: KBy9YjEJaP2DT7lHRSNkSM+nYXs=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: WYYoSSOmz1yEcFvBtbd704UQkr0=
+
+Name: assets/src/cocos/cocos2d/DrawPrimitives.luac
+SHA1-Digest: fkQRt3rhXCTDvA4LWcqSE++HMC4=
+
+Name: assets/src/cocos/cocos2d/DeprecatedCocos2dFunc.luac
+SHA1-Digest: IhQvmc50PlKi6E0fZ2pOAFrcWjc=
+
+Name: assets/src/cocos/cocos2d/Cocos2dConstants.luac
+SHA1-Digest: o7PNG9v/6r9BLrhewiuUbpRbLPo=
+
+Name: assets/src/packages/mvc/AppBase.luac
+SHA1-Digest: PwtgulJkpO6agRdSWN0mDqG68eM=
+
+Name: assets/src/main.luac
+SHA1-Digest: vQ5Hn8QHfNCSwQixsFQPC+puOV0=
+
+Name: assets/src/cocos/cocos2d/bitExtend.luac
+SHA1-Digest: 5BZhG+xYtJ2OHkE6/i7bBt7ZnnI=
+
+Name: assets/src/cocos/framework/extends/UIScrollView.luac
+SHA1-Digest: bmBTaaCsx/FtP7JplxaFCquXzzc=
+
+Name: assets/src/cocos/cocos2d/deprecated.luac
+SHA1-Digest: azAY1bdy/uJQx5bTwCwkNEK6kAM=
+
+Name: classes.dex
+SHA1-Digest: 8eCYc8nIU7cgK6CekfijrmPbsj0=
+
+Name: assets/src/cocos/cocostudio/StudioConstants.luac
+SHA1-Digest: uh3H/jl2uLQOi2eVjdWk9CH8s00=
+
+Name: assets/src/app/views/BugSprite.luac
+SHA1-Digest: 1UhiARJT5Do+16ke5h4zi4aBtuU=
+
+Name: assets/res/BugAnt.png
+SHA1-Digest: 8leSntIDm82abjiH0tR7QZ66yCA=
+
+Name: assets/res/BugDead.wav
+SHA1-Digest: /JfITCjFTFQtcDDZGmWXwptQ+TU=
+
+Name: assets/src/cocos/framework/extends/UIPageView.luac
+SHA1-Digest: oi+8SiMvrXxJ48vkQsOJEum5Rgg=
+
+Name: assets/src/cocos/framework/extends/LayerEx.luac
+SHA1-Digest: EIwVuktuu1lPIqMs08jUrXZ3ZAo=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: cQ3w5oXjP5DpLByk5c8F/LUcex4=
+
+Name: assets/src/cocos/framework/extends/UIEditBox.luac
+SHA1-Digest: b12ATV4OB2VAGlTFTNWbBttRg6c=
+
