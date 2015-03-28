@@ -1,128 +1,86 @@
 obj/local/armeabi/objs-debug/box2d_static/Dynamics/b2ContactManager.o: \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/Dynamics/b2ContactManager.cpp \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2ContactManager.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2BroadPhase.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Settings.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/assert.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/cdefs.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/cdefs_elf.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/android/api-level.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2Collision.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Math.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/math.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/stdint.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/_types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/_types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/posix_types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/stddef.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/compiler.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/posix_types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/kernel.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/sysmacros.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/limits.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/limits.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/limits.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/internal_types.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/limits.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/syslimits.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/page.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2DynamicTree.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2GrowableStack.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/memory.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/string.h \
- /usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/malloc.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/Dynamics/b2ContactManager.cpp \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2ContactManager.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2BroadPhase.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Settings.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/assert.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/cdefs.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/cdefs_elf.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/android/api-level.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2Collision.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Math.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/math.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/limits.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/limits.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/linux/limits.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/syslimits.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2DynamicTree.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2GrowableStack.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/memory.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/string.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/malloc.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/xlocale.h \
  /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Body.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2BlockAllocator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Body.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2BlockAllocator.h \
  /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Fixture.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h \
- /Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Fixture.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2ContactManager.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2ContactManager.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2BroadPhase.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2BroadPhase.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Settings.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Settings.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/assert.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/assert.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/cdefs.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/cdefs.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/cdefs_elf.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/android/api-level.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/android/api-level.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2Collision.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2Collision.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Math.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2Math.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/math.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/math.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/types.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/limits.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/stdint.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/limits.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/_types.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/linux/limits.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/_types.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/syslimits.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/posix_types.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2DynamicTree.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/stddef.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2GrowableStack.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/compiler.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/memory.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/posix_types.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/string.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/types.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/malloc.h:
 
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/types.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/kernel.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/sysmacros.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/limits.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/limits.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/linux/limits.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/internal_types.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/machine/limits.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/sys/syslimits.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/asm/page.h:
-
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/b2DynamicTree.h:
-
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2GrowableStack.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/memory.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/string.h:
-
-/usr/local/Cellar/android-ndk/r10d/platforms/android-18/arch-arm/usr/include/malloc.h:
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/xlocale.h:
 
 /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Body.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Body.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2BlockAllocator.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Common/b2BlockAllocator.h:
 
 /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Fixture.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2Fixture.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h:
 
-/Users/t_akaishi/Documents/luatest/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h:
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h:

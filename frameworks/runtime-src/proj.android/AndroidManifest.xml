@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="biz.xperia.lua"
       android:versionCode="1"
-      android:versionName="1.0"
+      android:versionName="1.0.0"
       android:installLocation="auto">
 
     <uses-sdk android:minSdkVersion="9"/>
@@ -17,7 +17,7 @@
 					  
         <activity android:name="org.cocos2dx.lua.AppActivity"
                   android:label="@string/app_name"
-                  android:screenOrientation="landscape"
+                  android:screenOrientation="sensorPortrait"
                   android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
                   android:configChanges="orientation">
             <intent-filter>

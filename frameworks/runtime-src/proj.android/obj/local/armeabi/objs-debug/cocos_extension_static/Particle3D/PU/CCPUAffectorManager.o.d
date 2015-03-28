@@ -1,0 +1,347 @@
+obj/local/armeabi/objs-debug/cocos_extension_static/Particle3D/PU/CCPUAffectorManager.o: \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/extensions/Particle3D/PU/CCPUAffectorManager.cpp \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/extensions/Particle3D/PU/CCPUAffectorManager.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/CCRef.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformMacros.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccConfig.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformConfig.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformDefine.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCPlatformDefine-android.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/android/log.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptTranslator.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCMath.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/functional \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCMathBase.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.inl \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.inl \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccMacros.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/CCConsole.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/select.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCStdC.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCStdC-android.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccRandom.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.inl \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.inl \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Quaternion.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Quaternion.inl \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptCompiler.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptParser.h \
+ /usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptLexer.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/CCParticle3DAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAlignAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAlignAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseColliderTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./3d/CCAABB.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBoxColliderTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBoxCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUCollisionAvoidanceAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUCollisionAvoidanceAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUColorAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUColorAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccTypes.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCGeometry.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCGL.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCGL-android.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2platform.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/KHR/khrplatform.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2.h \
+ /usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUFlockCenteringAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUFlockCenteringAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceFieldAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceFieldAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceField.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUNoise.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGeometryRotatorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGeometryRotator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUDynamicAttribute.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSimpleSpline.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGravityAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGravityAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUInterParticleColliderTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUInterParticleCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUJetAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUJetAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULineAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULineAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULinearForceAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULinearForceAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUParticleFollowerTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUParticleFollower.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPathFollowerTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPathFollower.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSimpleSpline.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlaneColliderTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlaneCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlane.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPURandomiserTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPURandomiser.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleVelocityAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleVelocityAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSineForceAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSineForceAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphereColliderTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphereCollider.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphere.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureAnimatorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureAnimator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureRotatorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureRotator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVelocityMatchingAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVelocityMatchingAffector.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVortexAffectorTranslator.h \
+ /Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVortexAffector.h
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/extensions/Particle3D/PU/CCPUAffectorManager.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/CCRef.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformMacros.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccConfig.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformConfig.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCPlatformDefine.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCPlatformDefine-android.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/android/log.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptTranslator.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCMath.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/functional:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCMathBase.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.inl:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec2.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.inl:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec3.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccMacros.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/CCConsole.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/sys/select.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCStdC.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCStdC-android.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccRandom.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.inl:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.inl:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Vec4.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Mat4.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Quaternion.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/Quaternion.inl:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptCompiler.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptParser.h:
+
+/usr/local/Cellar/android-ndk/r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScriptLexer.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/CCParticle3DAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAlignAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUAlignAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseColliderTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./3d/CCAABB.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBoxColliderTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBoxCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUCollisionAvoidanceAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUCollisionAvoidanceAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUColorAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUColorAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./base/ccTypes.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./math/CCGeometry.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/CCGL.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./platform/android/CCGL-android.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/KHR/khrplatform.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2.h:
+
+/usr/local/Cellar/android-ndk/r10d/platforms/android-21/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUFlockCenteringAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUFlockCenteringAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceFieldAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceFieldAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUForceField.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUNoise.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGeometryRotatorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGeometryRotator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUDynamicAttribute.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSimpleSpline.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGravityAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUGravityAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUInterParticleColliderTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUInterParticleCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUJetAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUJetAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULineAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULineAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULinearForceAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPULinearForceAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUBaseForceAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUParticleFollowerTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUParticleFollower.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPathFollowerTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPathFollower.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSimpleSpline.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlaneColliderTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlaneCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUPlane.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPURandomiserTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPURandomiser.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleVelocityAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUScaleVelocityAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSineForceAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSineForceAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphereColliderTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphereCollider.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUSphere.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureAnimatorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureAnimator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureRotatorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUTextureRotator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVelocityMatchingAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVelocityMatchingAffector.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVortexAffectorTranslator.h:
+
+/Users/aka/Documents/lua/frameworks/runtime-src/proj.android/../../cocos2d-x/cocos//./../extensions/Particle3D/PU/CCPUVortexAffector.h:
