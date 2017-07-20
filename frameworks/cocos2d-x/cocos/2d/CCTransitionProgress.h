@@ -2,7 +2,7 @@
 Copyright (c) 2009      Lam Pham
 Copyright (c) 2010-2012 cocos2d-x.org
 Copyright (c) 2012      Ricardo Quesada
-Copyright (c) 2013-2014 Chukong Technologies Inc.
+Copyright (c) 2013-2017 Chukong Technologies Inc.
 
 http://www.cocos2d-x.org
 
@@ -36,7 +36,7 @@ class ProgressTimer;
 class RenderTexture;
 
 /**
- * @addtogroup transition
+ * @addtogroup _2d
  * @{
  */
 /** @class TransitionProgress
@@ -254,7 +254,7 @@ protected:
 
 };
 
-// end of transition group
+// end of _2d group
 /// @}
 
 NS_CC_END

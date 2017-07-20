@@ -2,7 +2,7 @@
 Copyright (c) 2008-2010 Ricardo Quesada
 Copyright (c) 2010-2012 cocos2d-x.org
 Copyright (c) 2011      Zynga Inc.
-Copyright (c) 2013-2014 Chukong Technologies Inc.
+Copyright (c) 2013-2017 Chukong Technologies Inc.
 
 http://www.cocos2d-x.org
 
@@ -35,14 +35,14 @@ NS_CC_BEGIN
 struct _ccArray;
 
 /**
- * @addtogroup tilemap_parallax_nodes
+ * @addtogroup _2d
  * @{
  */
 
 /** @class ParallaxNode
  * @brief ParallaxNode: A node that simulates a parallax scroller
 
-The children will be moved faster / slower than the parent according the the parallax ratio.
+The children will be moved faster / slower than the parent according the parallax ratio.
 
 */
 class CC_DLL ParallaxNode : public Node
@@ -110,7 +110,7 @@ private:
     CC_DISALLOW_COPY_AND_ASSIGN(ParallaxNode);
 };
 
-// end of tilemap_parallax_nodes group
+// end of _2d group
 /// @}
 
 NS_CC_END

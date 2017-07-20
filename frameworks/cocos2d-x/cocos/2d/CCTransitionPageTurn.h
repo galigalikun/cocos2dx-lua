@@ -1,7 +1,7 @@
 /****************************************************************************
 Copyright (c) 2009      Sindesso Pty Ltd http://www.sindesso.com/
 Copyright (c) 2010-2012 cocos2d-x.org
-Copyright (c) 2013-2014 Chukong Technologies Inc.
+Copyright (c) 2013-2017 Chukong Technologies Inc.
 
 http://www.cocos2d-x.org
 
@@ -35,7 +35,7 @@ NS_CC_BEGIN
 class NodeGrid;
 
 /**
- * @addtogroup transition
+ * @addtogroup _2d
  * @{
  */
 
@@ -67,6 +67,7 @@ public:
     
     //
     // Overrides
+    // @js NA
     //
     virtual void draw(Renderer *renderer, const Mat4 &transform, uint32_t flags) override;
 
@@ -84,7 +85,7 @@ public:
 
     /** Returns the action that will be performed with size.
      *
-     * @param size A given size.
+     * @param vector A given size.
      * @return The action that will be performed.
      */
     ActionInterval* actionWithSize(const Size& vector);
@@ -115,7 +116,7 @@ protected:
     bool    _back;
 };
 
-// end of transition group
+// end of _2d group
 /// @}
 
 NS_CC_END

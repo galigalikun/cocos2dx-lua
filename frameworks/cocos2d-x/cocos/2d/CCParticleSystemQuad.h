@@ -3,7 +3,7 @@ Copyright (c) 2008-2010 Ricardo Quesada
 Copyright (c) 2009      Leonardo Kasperavičius
 Copyright (c) 2010-2012 cocos2d-x.org
 Copyright (c) 2011      Zynga Inc.
-Copyright (c) 2013-2014 Chukong Technologies Inc.
+Copyright (c) 2013-2017 Chukong Technologies Inc.
  
 http://www.cocos2d-x.org
 
@@ -37,7 +37,7 @@ class SpriteFrame;
 class EventCustom;
 
 /**
- * @addtogroup particle_nodes
+ * @addtogroup _2d
  * @{
  */
 
@@ -53,6 +53,7 @@ Special features and Limitations:
 - It supports subrects.
 - It supports batched rendering since 1.1.
 @since v0.8
+@js NA
 */
 class CC_DLL ParticleSystemQuad : public ParticleSystem
 {
@@ -117,8 +118,8 @@ public:
     /**
      * @js NA
      * @lua NA
-     */
-    virtual void updateQuadWithParticle(tParticle* particle, const Vec2& newPosition) override;
+     */    
+    virtual void updateParticleQuads() override;
     /**
      * @js NA
      * @lua NA
@@ -160,6 +161,8 @@ CC_CONSTRUCTOR_ACCESS:
      * @lua NA
      */
     virtual bool initWithTotalParticles(int numberOfParticles) override;
+    
+
 
 protected:
     /** initializes the indices for the vertices*/
@@ -181,12 +184,14 @@ protected:
     GLuint              _buffersVBO[2]; //0: vertex  1: indices
 
     QuadCommand _quadCommand;           // quad command
+    
+
 
 private:
     CC_DISALLOW_COPY_AND_ASSIGN(ParticleSystemQuad);
 };
 
-// end of particle_nodes group
+// end of _2d group
 /// @}
 
 NS_CC_END

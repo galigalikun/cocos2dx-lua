@@ -23,12 +23,18 @@
 -- @return TransitionTurnOffTiles#TransitionTurnOffTiles ret (return value: cc.TransitionTurnOffTiles)
         
 --------------------------------
--- 
+-- js NA
 -- @function [parent=#TransitionTurnOffTiles] draw 
 -- @param self
 -- @param #cc.Renderer renderer
 -- @param #mat4_table transform
 -- @param #unsigned int flags
+-- @return TransitionTurnOffTiles#TransitionTurnOffTiles self (return value: cc.TransitionTurnOffTiles)
+        
+--------------------------------
+-- 
+-- @function [parent=#TransitionTurnOffTiles] TransitionTurnOffTiles 
+-- @param self
 -- @return TransitionTurnOffTiles#TransitionTurnOffTiles self (return value: cc.TransitionTurnOffTiles)
         
 return nil

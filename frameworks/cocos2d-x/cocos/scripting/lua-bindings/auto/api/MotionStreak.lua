@@ -69,6 +69,25 @@
 -- @return bool#bool ret (return value: bool)
         
 --------------------------------
+--  Get stroke.<br>
+-- return float stroke.
+-- @function [parent=#MotionStreak] getStroke 
+-- @param self
+-- @return float#float ret (return value: float)
+        
+--------------------------------
+-- @overload self, float, float, float, color3b_table, cc.Texture2D         
+-- @overload self, float, float, float, color3b_table, string         
+-- @function [parent=#MotionStreak] initWithFade
+-- @param self
+-- @param #float fade
+-- @param #float minSeg
+-- @param #float stroke
+-- @param #color3b_table color
+-- @param #string path
+-- @return bool#bool ret (return value: bool)
+
+--------------------------------
 --  Sets fast mode or not.<br>
 -- param bFastMode True if enabled fast mode.
 -- @function [parent=#MotionStreak] setFastMode 
@@ -77,15 +96,23 @@
 -- @return MotionStreak#MotionStreak self (return value: cc.MotionStreak)
         
 --------------------------------
+--  Set stroke.<br>
+-- param stroke The width of stroke.
+-- @function [parent=#MotionStreak] setStroke 
+-- @param self
+-- @param #float stroke
+-- @return MotionStreak#MotionStreak self (return value: cc.MotionStreak)
+        
+--------------------------------
 -- @overload self, float, float, float, color3b_table, cc.Texture2D         
 -- @overload self, float, float, float, color3b_table, string         
 -- @function [parent=#MotionStreak] create
 -- @param self
--- @param #float fade
+-- @param #float timeToFade
 -- @param #float minSeg
--- @param #float stroke
--- @param #color3b_table color
--- @param #string path
+-- @param #float strokeWidth
+-- @param #color3b_table strokeColor
+-- @param #string imagePath
 -- @return MotionStreak#MotionStreak ret (return value: cc.MotionStreak)
 
 --------------------------------
@@ -164,4 +191,10 @@
 -- @param #float y
 -- @return MotionStreak#MotionStreak self (return value: cc.MotionStreak)
 
+--------------------------------
+-- 
+-- @function [parent=#MotionStreak] MotionStreak 
+-- @param self
+-- @return MotionStreak#MotionStreak self (return value: cc.MotionStreak)
+        
 return nil

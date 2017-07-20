@@ -1,5 +1,5 @@
 /****************************************************************************
- Copyright (c) 2014 Chukong Technologies Inc.
+ Copyright (c) 2014-2017 Chukong Technologies Inc.
  
  http://www.cocos2d-x.org
  
@@ -39,6 +39,8 @@ enum class PointSide
 
 /**
  * Defines plane
+ * @js NA
+ * @lua NA
  **/
 class CC_DLL Plane
 {

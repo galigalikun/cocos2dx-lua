@@ -1,5 +1,5 @@
 /****************************************************************************
- Copyright (c) 2014 Chukong Technologies Inc.
+ Copyright (c) 2014-2017 Chukong Technologies Inc.
  
  http://www.cocos2d-x.org
  
@@ -31,7 +31,12 @@
 NS_CC_BEGIN
 
 /**
- * Axis Aligned Bounding Box (AABB), usually caculate some rough but fast collision detection.
+ * @addtogroup _3d
+ * @{
+ */
+
+/**
+ * Axis Aligned Bounding Box (AABB), usually calculate some rough but fast collision detection.
  */
 class CC_DLL AABB
 {
@@ -39,11 +44,13 @@ class CC_DLL AABB
 public:
     /**
      * Constructor.
+     * @lua new
      */
     AABB();
     
     /**
      * Constructor.
+     * @lua new
      */
     AABB(const Vec3& min, const Vec3& max);
     
@@ -116,6 +123,9 @@ public:
     Vec3 _min;
     Vec3 _max;
 };
+
+// end of 3d group
+/// @}
 
 NS_CC_END
 
